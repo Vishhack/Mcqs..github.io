@@ -22,5 +22,5 @@ function calculateScore() {
     resultsSection.style.display = 'block';
 }
 
-const correctAnswers = ['b', 'd', 'b', 'b', 'b', 'd', 'c', 'c', 'a', 'c', 'b', 'b', 'b', 'c', 'a', 'b', 'c', 'a', 'a'];
+const correctAnswers = ['b', 'd', 'b'];
  // Add your correct answers here
